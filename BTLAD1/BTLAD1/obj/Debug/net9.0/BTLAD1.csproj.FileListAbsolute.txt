@@ -1,0 +1,14 @@
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\bin\Debug\net9.0\BTLAD1.exe
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\bin\Debug\net9.0\BTLAD1.deps.json
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\bin\Debug\net9.0\BTLAD1.runtimeconfig.json
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\bin\Debug\net9.0\BTLAD1.dll
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\bin\Debug\net9.0\BTLAD1.pdb
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.AssemblyInfoInputs.cache
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.AssemblyInfo.cs
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.csproj.CoreCompileInputs.cache
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.dll
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\refint\BTLAD1.dll
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.pdb
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\BTLAD1.genruntimeconfig.cache
+C:\Users\TRINH MINH QUAN\Desktop\BACK-END\BTLAD1\BTLAD1\obj\Debug\net9.0\ref\BTLAD1.dll
